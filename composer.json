@@ -1,0 +1,17 @@
+{
+    "name": "armez/utsweblanjutan",
+    "description": "Ujian Tengah Semester Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Armez\\Utsweblanjutan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dimas",
+            "email": "istirus77@gmail.com"
+        }
+    ],
+    "require": {}
+}

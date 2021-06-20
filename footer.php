@@ -1,0 +1,1 @@
+Copyright 2021 &copy; By Dimas Cholis Alharis
